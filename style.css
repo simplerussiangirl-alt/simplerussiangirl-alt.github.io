@@ -50,7 +50,7 @@ main {
 
 /* portfolio styles */
 #interests {
-    border: 4px silver ridge;
+    border: 4px rgb(137, 62, 187) ridge;
     padding: 8px;
 }
 
@@ -62,7 +62,7 @@ li{
     font-family:'Sixtyfour', sans-serif;;
     margin: 0;
     font-size: 30px;
-    color:palevioletred;
+    color:rgb(143, 115, 162);
 }
 
 /* portfolio styles */
