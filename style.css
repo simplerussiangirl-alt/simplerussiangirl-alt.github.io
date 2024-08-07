@@ -33,7 +33,7 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgb(245, 238, 219);
+    background: rgb(204, 155, 222);
     display: flex;
 }
 .sidebar {
