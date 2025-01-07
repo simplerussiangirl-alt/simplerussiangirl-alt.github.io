@@ -1,6 +1,6 @@
 body {
-    background: #c4b0dc;
-    color: #ffe7e7;
+    background: #77ff00;
+    color: #b10909;
 }
 
 /* navigation menu */
@@ -84,7 +84,7 @@ li{
 }
 
 #portfolio li:hover {
-    background: #eee;
+    background: #815858;
 }
 
 #portfolio a {
