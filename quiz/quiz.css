@@ -3,14 +3,6 @@ body {
     color: #b10909;
 }
 
-/* navigation menu */
-nav {
-    background: #a078c8;
-    margin: 0 auto;
-    margin-bottom: 20px;
-    display: flex;
-    padding: 10px;
-}
 h1 {
     display: flex;
     align-items: center;
@@ -18,40 +10,10 @@ h1 {
     flex: 1;
     margin: 0;
 }
-#nav-ul {
-    list-style-image: none;
-}
-.nav-li {
-    display: inline-block;
-    padding: 0 10px;
-}
 a {
     text-decoration: none;
     text-align: left;
     color: #fff;
-}
-
-/* main container area beneath menu */
-main {
-    background: rgb(204, 155, 222);
-    display: flex;
-}
-.sidebar {
-    margin-right: 25px;
-    padding: 10px;
-}
-.sidebar-img {
-    width: 200px;
-}
-.content {
-    flex: 1;
-    padding: 15px;
-}
-
-/* portfolio styles */
-#interests {
-    border: 4px rgb(137, 62, 187) ridge;
-    padding: 8px;
 }
 
 h2, h3 {
@@ -59,38 +21,11 @@ h2, h3 {
     color:white;
 }
 
-li{
-    font-family:'Sixtyfour', sans-serif;;
-    margin: 0;
-    font-size: 30px;
-    color:rgb(143, 115, 162);
-}
-
 /* portfolio styles */
 .content h1 {
     color: black;
 }
 
-#portfolio {
-    list-style-type: none;
-    padding-left: 0;
-}
-
-#portfolio li {
-    background: #fff;
-    padding: 10px;
-    border-radius: 10px;
-    margin-bottom: 10px;
-}
-
-#portfolio li:hover {
-    background: #815858;
-}
-
-#portfolio a {
-    text-decoration: none;
-    color: #454545;
-}
 
 h2{
     text-align: center;
